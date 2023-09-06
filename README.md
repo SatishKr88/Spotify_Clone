@@ -1,2 +1,2 @@
 # Spotify_Clone
-Author By- Satish Kumar
+ By- Satish Kumar
